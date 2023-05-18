@@ -8,8 +8,6 @@
 </p>
 <hr/>
 <Br>
-  <h1> Sobre Mim! 😎 </h1> 
-  
   <h4>Meu nome é Luana Nascimento, ou “Selenitye” (meu id na web).
     Agora em 2023 iniciei transição de carreira para o mundo da programação. 
 Minha primeira experiência com código foi na época em que todos tinham um blog. Lembro-me de tentar modificar meus layouts tentando ser uma influencer no mundo dos livros. Eu costumava passar horas tentando personalizar meus blogs e nem conseguia ver o tempo passar. A emoção de criar e modificar páginas por conta própria foi incrível, minha Wonderland.</h4>
