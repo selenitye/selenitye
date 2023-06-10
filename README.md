@@ -14,10 +14,8 @@ Minha primeira experiência com código foi na época em que todos tinham um blo
 <br>
 
 - 🙋‍♀️  Pronomes: Ela/Dela
-- 🏫: Sou uma dev em formação.
 - 📣  Nós podemos falar em: Português
 - 🌱: Estou aprendendo Python e JS 🧠💻🤖
-- 🔭: Estou fme dedicando a pequenos projetos
 - 💬  Pergunte-me sobre: Cosplay, Fotografia, Moda e Livros
 - ⚡  Fun fact: Sou formada em Moda e tambem sou tec de Enfermagem
   
