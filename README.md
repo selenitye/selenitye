@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selenitye/aula-html/main/MTXX_MH20230610_210144421%20(1).jpg?token=GHSAT0AAAAAACDOGFCRLXJ5ZZCTJNU3V6FYZEFCNUA" height="230"/>
+  <img src="https://scontent.ffor17-1.fna.fbcdn.net/v/t39.30808-6/353054160_6397856023607361_1889763005588341776_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeENhlRC3JpCRE1lbA3OdXri22xMgHKmpGjbbEyAcqakaFuxRt9bK81B4kczxn8Q-WpXDTbA4mYNP331chedAI-3&_nc_ohc=MhUrrJgGEd0AX8k0eDq&_nc_ht=scontent.ffor17-1.fna&oh=00_AfBqKv7zHi6AhyVSdta1fdiFO1zSj4pHuVXZsEciwsfA8w&oe=648A421E" height="300"/>
 </p>
 <hr>
 <h1 align="center">Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
