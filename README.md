@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://raw.githubusercontent.com/selenitye/aula-html/main/MTXX_MH20230610_210144421%20(1).jpg?token=GHSAT0AAAAAACDOGFCR7BU5JY37XJZAAZTUZEFB7YA" height="230"/>
 </p>
 <hr>
-<h1 align="center">Luana - aka Selenitye <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a align="center"> 🚀 Full Stack Developer 🚀 </a>
 </p>
