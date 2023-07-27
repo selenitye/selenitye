@@ -8,11 +8,11 @@
 
 <p align="center"><strong>🌜Desenvolvedora Full Stack 🌛</strong>
 
-💻 Habilidades: <strong> HTML | CSS | JavaScript | PHP | Git </strong><br>
+💻 Habilidades: <strong> HTML | CSS | JavaScript | Git </strong><br>
   🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
   🚀 O que estou aprendendo: <strong>Python</strong><br>
-  🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas pela Descomplica Faculdade 
-  e Desenvolvimento Web pela Fly Educação</strong></p>
+  🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas 
+  e Desenvolvimento Web</strong></p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
