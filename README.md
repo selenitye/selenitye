@@ -1,116 +1,41 @@
-<p align="center">
-  <img src="https://scontent.ffor17-1.fna.fbcdn.net/v/t39.30808-6/353054160_6397856023607361_1889763005588341776_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeENhlRC3JpCRE1lbA3OdXri22xMgHKmpGjbbEyAcqakaFuxRt9bK81B4kczxn8Q-WpXDTbA4mYNP331chedAI-3&_nc_ohc=MhUrrJgGEd0AX8k0eDq&_nc_ht=scontent.ffor17-1.fna&oh=00_AfBqKv7zHi6AhyVSdta1fdiFO1zSj4pHuVXZsEciwsfA8w&oe=648A421E" height="300"/>
+<img align="right" alt="Developer vector" height="380" src="https://github.com/selenitye/selenitye/assets/129871998/b28230cc-0202-4727-90f1-d2c0a0ba45c9">
 
-<p align="center">
-  <a align="center"> 🌜 Full Stack Developer 🌛 </a>
-<p align="center">
-  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="mailto:selenitye@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/selenitye"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/selenitye"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/selenitye"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/selenitye"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-<Br>
-	<h1 align="center">Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <h4>Meu nome é Luana Nascimento, ou “Selenitye” (meu id na web).
-    Em 2023 iniciei transição de carreira para o mundo da tecnologia e desde entao, sigo apaixonada. 
-Minha primeira experiência com código foi na época em que todos tinham um blog. Lembro-me de tentar modificar meus layouts tentando ser uma influencer no mundo dos livros. Eu costumava passar horas tentando personalizar meus blogs e nem conseguia ver o tempo passar. A emoção de criar e modificar páginas por conta própria foi incrível, minha Wonderland.</h4>
+<h1>
+    <a href="">
+     <img align="center" alt="Logo Luana Projetos" width="36px" src="https://github.com/selenitye/selenitye/assets/129871998/ab062889-c71c-4a87-9d9f-e643b018aa64"></a>
+    <span>Luana Nascimento</span>
+</h1>
+
+<p align="center"><strong>🌜Desenvolvedora Full Stack 🌛</strong>
+
+💻 Habilidades: <strong> HTML | CSS | JavaScript | PHP | Git </strong><br>
+  🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
+  🚀 O que estou aprendendo: <strong>Python</strong><br>
+  🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas pela Descomplica Faculdade 
+  e Desenvolvimento Web pela Fly Educação</strong></p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
+<h3 align="left">Vamos nos Conectar!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1064ba)](mailto:luanacs@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1064ba)](https://www.linkedin.com/in/selenitye/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1064ba&color:FFF)](https://www.instagram.com/selenitye/) 
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=1064ba)](https://www.discord.com/in/SEUUSERNAME/)
+
+
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=selenitye&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=1064ba&text_color=FFF&border_radius=3&border_color=1064ba&icon_color=1064ba&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selenitye&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1064ba&hide=html,css&bg_color=000&text_color=1064ba&border_radius=3&border_color=1064ba&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
+
+
+
 <br>
 
-- 🙋‍♀️  Pronomes: Ela/Dela
-- 📣  Nós podemos falar em: Português
-- 🌱: Estou aprendendo Python e JS 🧠💻🤖
-- 💬  Pergunte-me sobre: Cosplay, Fotografia, Moda e Livros
-- ⚡  Fun fact: Sou formada em Moda e tambem sou tec de Enfermagem
-  
-<hr>
-<Br>
 
-## 🛠️ Minhas Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-</p>
-
-### 👉 Frontend 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-</p>
-  
-### 👉 Backend 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-  &emsp;
- </p>
-  
-### 👉 Graphic Designing
-<p align="left">
-  &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-</p>
-  <br/>
-  
-  ## 📊 Github Stats (Expanda para ver) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=selenitye&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selenitye&show_icons=true&locale=en&layout=compact&theme=algolia" alt="selenitye" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-<br/>
- 
 <p align="center">
-  <a align="center">✨ Vamos nos Conectar!</a>
+  <a align="center">✨<strong> XX</strong></a>
 <p align="center">	
 
