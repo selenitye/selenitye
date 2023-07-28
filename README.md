@@ -20,9 +20,7 @@
 <h3 align="left">Vamos nos Conectar!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1064ba)](mailto:luanacs@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1064ba)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=selenitye)  
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1064ba&color:FFF)](https://www.instagram.com/selenitye/) 
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=1064ba)](https://www.discord.com/in/selenitye#7135/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1064ba)](https://www.linkedin.com/in/selenitye)  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1064ba&color:FFF)](https://www.instagram.com/selenitye/)  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=1064ba)]()
 
 
 <h3 align="left">GitHub Stats</h3>
