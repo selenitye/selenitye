@@ -26,7 +26,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=selenitye&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=1064ba&text_color=FFF&border_radius=3&border_color=1064ba&icon_color=1064ba&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selenitye&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1064ba&hide=html,css&bg_color=000&text_color=1064ba&border_radius=3&border_color=1064ba&count_private=true)](https://github.com/selenitye/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selenitye&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1064ba&hide=&bg_color=000&text_color=1064ba&border_radius=3&border_color=1064ba&count_private=true)](https://github.com/selenitye/github-readme-stats) <!-- `hide=html,css` para esconder o que quiser -->
 
 
 
